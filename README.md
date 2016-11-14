@@ -1,2 +1,2 @@
-Travelogue - A Personalized Social Travel Experience
-Travelogue helps tourists find local guides who have the same interests as they do. The matching algorithm ensures a truly personalized social experience. This project was developed at Yhack 2016.
+# travelogue
+Explore new cities with people who share your interests or make a quick buck showing someone around
